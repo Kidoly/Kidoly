@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👋
 
-I am **Alban Mary**, a French computer science student passionate about programming and technology in general. I am responsible and self-motivated, and I am currently seeking an internship opportunity to develop new skills and expand my expertise. 🚀
+I'm proud to introduce myself as Alban Mary, a dedicated and enthusiastic computer science student hailing from France. My passion lies in programming and the vast world of technology. I'm a firm believer in taking responsibility and initiative, and I'm currently on the lookout for an internship opportunity to broaden my skill set and deepen my knowledge. 🚀
 
 ## Statistics
 
