@@ -4,24 +4,13 @@ I'm proud to introduce myself as Alban Mary, a dedicated and enthusiastic comput
 
 ## Statistics
 
-<table style="border: none; width: 100%;; color: #fff;">
-  <tr style="border: none">
-    <td style="width: 50%; border: none;">
-      <p align="center">
-        <a href="https://github.com/Kidoly/github-readme-stats">
-          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Kidoly&show_icons=true&theme=dark" />
-        </a>
-      </p>
-    </td>
-    <td style="width: 50%; border: none;">
-      <p align="center">
-        <a href="https://github.com/Kidoly/convoychat">
-          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kidoly&layout=compact&langs_count=8&card_width=320&theme=dark" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kidoly&theme=gotham&hide_border=false&ring=4169e1&fire=1E90FF&currStreakLabel=4169e1&sideNums=1E90FF&dates=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kidoly&bg_color=0d1117&color=4169e1&line=1E90FF&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ## 🌐 Programming Languages 
 
