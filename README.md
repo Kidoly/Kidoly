@@ -14,7 +14,6 @@
 
 - **At work** – L2/L3 support for a hosting and managed services provider: about 500 VMs across two data centres (Proxmox VE with stretched Ceph, VMware, Veeam).
   - Set up Infrastructure as Code (GitLab CI, Vault, Ansible, Terraform): a VM now deploys in minutes instead of hours.
-  - Brought an Exchange 2019 cluster back in under 2 hours after a quorum loss, for several hundred users.
   - Designing a multi-tenant disaster recovery portal on Veeam.
 - **At school** – 5th year at EPSI Nantes, master's-level degree (RNCP level 7) due in 2027, after a bachelor's in systems, network and database administration (2025).
 - **At home** – a homelab running 24/7: 3-node Proxmox VE cluster with Ceph on 10 GbE, Kubernetes, GitLab, Vault, Authentik SSO and OPNsense. It also hosts my website.
