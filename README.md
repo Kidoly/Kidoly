@@ -69,7 +69,7 @@
 |---|---|
 | **[albanmary.com](https://albanmary.com/?utm_source=github)** | My portfolio and blog. Next.js in Docker, self-hosted, deployed with Watchtower; strict CSP, Lighthouse 100 on desktop, cookieless analytics. |
 | **Homelab** | Self-hosted platform running 24/7: Proxmox VE + Ceph cluster, Kubernetes, GitLab and registry, Vault, Authentik, NetBox, Graylog, NetBird mesh VPN. |
-| **[MonitorFlow](https://github.com/Kidoly/monitorflowmodule)** | Real-time server monitoring with alerts: Rust agent, API, Flutter and Next.js clients. |
+| **[MonitorFlow](https://github.com/Kidoly/monitorflow)** | Real-time server monitoring with alerts: Rust agent, API, Flutter and Next.js clients. |
 | **[Proxmox articles](https://albanmary.com/proxmox/?utm_source=github)** | Debian 13 Cloud-Init templates driven by Terraform, Docker updates with Watchtower, site-to-site IPsec. |
 
 ---
