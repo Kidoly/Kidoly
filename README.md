@@ -1,16 +1,11 @@
-# Alban Mary
+<a href="https://albanmary.com/?utm_source=github"><img src="https://albanmary.com/github/hero.svg" alt="Alban Mary — Systems & network engineer. Work-study at Epsight, a hosting and managed services provider, and 5th year at EPSI Nantes. Open to a full-time role from October 2027, in Nantes, France or remote." width="100%"></a>
 
-**Systems & network engineer** · work-study at Epsight (hosting & managed services) · Nantes, France
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=D73626&center=true&vCenter=true&width=520&lines=%24+whoami;Systems+%26+network+engineer;Proxmox+%C2%B7+Ceph+%C2%B7+Kubernetes;Infrastructure+as+Code;Open+to+a+full-time+role+from+Oct+2027" alt="Systems & network engineer" />
-</div>
-
-> 📍 Looking for a **permanent position from October 2027**, anywhere in France or remote.
-
----
-
-### About
+<p>
+  <a href="https://albanmary.com/?utm_source=github"><img src="assets/btn-site.svg" alt="albanmary.com" height="34"></a>
+  <a href="https://www.linkedin.com/in/alban-mary/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="34"></a>
+  <a href="mailto:alban.mary1@gmail.com"><img src="assets/btn-mail.svg" alt="Email" height="34"></a>
+  <a href="https://albanmary.com/blog/feed.xml"><img src="assets/btn-rss.svg" alt="Blog RSS" height="34"></a>
+</p>
 
 - **At work** – L2/L3 support for a hosting and managed services provider: about 500 VMs across two data centres (Proxmox VE with stretched Ceph, VMware, Veeam).
   - Set up Infrastructure as Code (GitLab CI, Vault, Ansible, Terraform): a VM now deploys in minutes instead of hours.
@@ -19,50 +14,15 @@
 - **At home** – a homelab running 24/7: 3-node Proxmox VE cluster with Ceph on 10 GbE, Kubernetes, GitLab, Vault, Authentik SSO and OPNsense. It also hosts my website.
 - **On the blog** – what I build, written up step by step: [albanmary.com/blog](https://albanmary.com/blog/?utm_source=github)
 
----
+<img src="assets/band-stack.svg" alt="01 / Stack — What I run at work and in the homelab, by area." width="100%">
 
-### Stack
+<img src="assets/stack-virtualisation.svg" alt="Virtualisation & storage: Proxmox VE, Ceph, VMware vSphere, Veeam, Kubernetes, Docker" width="100%">
+<img src="assets/stack-network.svg" alt="Network & security: FortiGate, Arista (BGP, VXLAN), OPNsense, HAProxy, HashiCorp Vault, Authentik SSO" width="100%">
+<img src="assets/stack-systems.svg" alt="Systems: Debian, Windows Server, Active Directory, Exchange 2019" width="100%">
+<img src="assets/stack-automation.svg" alt="Automation & monitoring: Ansible, Terraform / OpenTofu, GitLab CI, PowerShell, Python, Bash, Zabbix / PRTG" width="100%">
+<img src="assets/stack-development.svg" alt="Development: Rust, Next.js, Flutter, Symfony" width="100%">
 
-**Virtualisation & storage**
-![Proxmox](https://img.shields.io/badge/Proxmox_VE-141414?style=flat-square&logo=proxmox&logoColor=white)
-![Ceph](https://img.shields.io/badge/Ceph-141414?style=flat-square&logo=ceph&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware_vSphere-141414?style=flat-square&logo=vmware&logoColor=white)
-![Veeam](https://img.shields.io/badge/Veeam-141414?style=flat-square&logo=veeam&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-141414?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=white)
-
-**Network & security**
-![Fortinet](https://img.shields.io/badge/FortiGate-141414?style=flat-square&logo=fortinet&logoColor=white)
-![Arista](https://img.shields.io/badge/Arista_(BGP,_VXLAN)-141414?style=flat-square)
-![OPNsense](https://img.shields.io/badge/OPNsense-141414?style=flat-square&logo=opnsense&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-141414?style=flat-square)
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-141414?style=flat-square&logo=vault&logoColor=white)
-![Authentik](https://img.shields.io/badge/Authentik_SSO-141414?style=flat-square)
-
-**Systems**
-![Debian](https://img.shields.io/badge/Debian-141414?style=flat-square&logo=debian&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-141414?style=flat-square&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-141414?style=flat-square)
-![Exchange](https://img.shields.io/badge/Exchange_2019-141414?style=flat-square)
-
-**Automation & monitoring**
-![Ansible](https://img.shields.io/badge/Ansible-141414?style=flat-square&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform_/_OpenTofu-141414?style=flat-square&logo=terraform&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-141414?style=flat-square&logo=gitlab&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-141414?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-141414?style=flat-square&logo=gnubash&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix_/_PRTG-141414?style=flat-square&logo=zabbix&logoColor=white)
-
-**Development**
-![Rust](https://img.shields.io/badge/Rust-141414?style=flat-square&logo=rust&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-141414?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-141414?style=flat-square&logo=flutter&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-141414?style=flat-square&logo=symfony&logoColor=white)
-
----
-
-### Projects
+<img src="assets/band-projects.svg" alt="02 / Projects — Things I built and keep running." width="100%">
 
 | | |
 |---|---|
@@ -71,22 +31,10 @@
 | **[MonitorFlow](https://github.com/Kidoly/monitorflow)** | Real-time server monitoring with alerts: Rust agent, API, Flutter and Next.js clients. |
 | **[Proxmox articles](https://albanmary.com/proxmox/?utm_source=github)** | Debian 13 Cloud-Init templates driven by Terraform, Docker updates with Watchtower, site-to-site IPsec. |
 
----
+<img src="assets/band-activity.svg" alt="03 / Activity — Contributions on GitHub, refreshed every 5 minutes." width="100%">
 
-### Activity
+<img src="https://albanmary.com/github/activity.svg" alt="GitHub contribution streaks and the last year of contributions, refreshed every 5 minutes." width="100%">
 
-<div align="center">
+<a href="https://albanmary.com/blog/?utm_source=github"><img src="https://albanmary.com/github/latest-post.svg" alt="Latest post on albanmary.com/blog." width="100%"></a>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kidoly&theme=transparent&hide_border=true&ring=D73626&fire=D73626&currStreakLabel=D73626)
-
-</div>
-
-
----
-
-### Contact
-
-[![Portfolio](https://img.shields.io/badge/albanmary.com-141414?style=for-the-badge&logo=googlechrome&logoColor=white)](https://albanmary.com/?utm_source=github)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alban-mary/)
-[![Email](https://img.shields.io/badge/alban.mary1@gmail.com-D73626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alban.mary1@gmail.com)
-[![RSS](https://img.shields.io/badge/Blog_RSS-141414?style=for-the-badge&logo=rss&logoColor=white)](https://albanmary.com/blog/feed.xml)
+<sub>Static cards generated by <a href="scripts/build.mjs"><code>scripts/build.mjs</code></a>; the live ones are served by <a href="https://albanmary.com/?utm_source=github">albanmary.com</a> and refreshed every 5 minutes.</sub>
